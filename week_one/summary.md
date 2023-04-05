@@ -1,0 +1,2 @@
+## Artificial intelligence can be defined in simple term as a branch of computer science that is concerned with the creation of systems that can simulate human intelligence. In a lay man language, artificial means man made stuffs or anything that is non natural, hence AI is the simultude or replica  of human intelligence in machines. 
+![AI image](Artificial-Intelligence-Growth.jpg)
